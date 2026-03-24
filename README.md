@@ -1,16 +1,31 @@
-## Hi there 👋
+#Hi there, I'm Alex 👋
+###AI Architect | Salesforce & Agent Systems Builder
 
-<!--
-**alexennube/alexennube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about building intelligent systems that actually do work—not just chat. Over the past 13+ years, I’ve designed and implemented enterprise-grade platforms across Salesforce, AI, and automation, and more recently focused on building agent-based systems that execute workflows, manipulate data, and drive outcomes.
 
-Here are some ideas to get you started:
+I’ve led teams, built a $2M services business, and now focus on turning AI into something practical, scalable, and production-ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###🛠️ What I Do
+🚀 AI Agents & Automation: Designing multi-agent systems (swarms) that execute real business workflows across CRMs and APIs.
+🏗️ Enterprise Architecture (Salesforce + Integrations): Building scalable systems across Salesforce, DocuSign, Netsuite, and complex data environments.
+🤖 Applied AI Products: Creating tools like contract readers, data agents, and prospecting systems that combine LLMs with structured execution.
+
+---
+
+###🚀 Projects
+https://www.ennube.ai – Turnkey AI agents for Salesforce that can read, write, and operate on CRM data with minimal setup.
+https://www.agentsarena.dev
+ – A growing hub for experimenting with and benchmarking AI agents and workflows.
+https://www.robotstext.dev
+ – Tracks how AI agents index and interact with websites across the internet.
+ https://www.agentmiso.com
+ - ChefMate App developed live in class with Latinas in Tech cohorts. 
+
+ ---
+
+###📫 Connect with Me
+🌐 Website: https://ennube.ai
+✉️ Email: alex@ennube.solutions
+💼 LinkedIn: linkedin.com/in/alex-garcia-ennube
