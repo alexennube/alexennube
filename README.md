@@ -21,7 +21,9 @@ I’ve led teams, built a $2M services business, and now focus on turning AI int
 ---
 
 🚀 Projects
-https://www.ennube.ai – Turnkey AI agents for Salesforce that can read, write, and operate on CRM data with minimal setup.
+
+https://www.ennube.ai / www.agentnami.com
+– Turnkey AI agents for Salesforce that can read, write, and operate on CRM data with minimal setup.
 
 https://www.agentsarena.dev
 - A growing hub for experimenting with and benchmarking AI agents and workflows.
