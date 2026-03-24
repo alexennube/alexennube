@@ -8,18 +8,27 @@ I’ve led teams, built a $2M services business, and now focus on turning AI int
 ---
 
 🛠️ What I Do
-🚀 AI Agents & Automation: Designing multi-agent systems (swarms) that execute real business workflows across CRMs and APIs.
-🏗️ Enterprise Architecture (Salesforce + Integrations): Building scalable systems across Salesforce, DocuSign, Netsuite, and complex data environments.
-🤖 Applied AI Products: Creating tools like contract readers, data agents, and prospecting systems that combine LLMs with structured execution.
+
+🚀 AI Agents & Automation 
+- Designing multi-agent systems (swarms) that execute real business workflows across CRMs and APIs.
+
+🏗️Enterprise Architecture (Salesforce + Integrations)
+- Building scalable systems across Salesforce, DocuSign, Netsuite, and complex data environments.
+
+🤖 Applied AI Products 
+- Creating tools like contract readers, data agents, and prospecting systems that combine LLMs with structured execution.
 
 ---
 
 🚀 Projects
 https://www.ennube.ai – Turnkey AI agents for Salesforce that can read, write, and operate on CRM data with minimal setup.
+
 https://www.agentsarena.dev
- – A growing hub for experimenting with and benchmarking AI agents and workflows.
+- A growing hub for experimenting with and benchmarking AI agents and workflows.
+
 https://www.robotstext.dev
- – Tracks how AI agents index and interact with websites across the internet.
+ - Tracks how AI agents index and interact with websites across the internet.
+ 
  https://www.agentmiso.com
  - ChefMate App developed live in class with Latinas in Tech cohorts. 
 
