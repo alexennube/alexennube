@@ -51,4 +51,4 @@ https://www.robotstext.dev
 -
 🌐 Website: https://ennube.ai
 ✉️ Email: alex@ennube.solutions
-💼 LinkedIn: linkedin.com/in/alex-garcia-ennube
+💼 LinkedIn: https://www.linkedin.com/in/alex-garcia-ennube
