@@ -13,21 +13,27 @@ I’ve led teams, built a $2M services business, and now focus on turning AI int
 🛠️ What I Do:
 -
 
-🚀 AI Agents & Automation 
+🚀 AI Research & Development
 - Designing multi-agent systems (swarms) that execute real business workflows across CRMs and APIs.
+- Designing Quines and self replicating program architecture.
+- Creating biological systems in software. 
 
 🏗️Enterprise Architecture (Salesforce + Integrations)
 - Building scalable systems across Salesforce, DocuSign, Netsuite, and complex data environments.
+- I fix the hardest problems companies have with their GTM systems. 
 
 🤖 Applied AI Products 
 - Creating tools like contract readers, data agents, and prospecting systems that combine LLMs with structured execution.
 
 🚀 Projects:
 -
-
+  
  https://www.github.com/alexennube/nami
  - Open Source Nami Engine, a multi agent orchestration lib that uses Swarms, SwarmQueens and Spawn to achieve outcomes.
    
+https://www.appseeds.dev
+- Self growing software.
+
 https://www.ennube.ai / www.agentnami.com
 – Turnkey AI agents for Salesforce that can read, write, and operate on CRM data with minimal setup.
 
