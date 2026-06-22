@@ -27,7 +27,11 @@ I’ve led teams, built a $2M services business, and now focus on turning AI int
 
 🚀 Projects:
 -
-  
+
+ https://www.vibeacademy.net 
+ - Created a generative learning platform to learn anything and teach others how to learn using AI. 
+
+   
  https://www.github.com/alexennube/nami
  - Open Source Nami Engine, a multi agent orchestration lib that uses Swarms, SwarmQueens and Spawn to achieve outcomes.
    
