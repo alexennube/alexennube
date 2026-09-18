@@ -1,13 +1,12 @@
 Hi there, I'm Alex 👋
 -
-AI Architect | Agentic Go to Market Systems Builder
+AI Architect | Agentic Harness Builder
 
 ---
 
 I’m passionate about building intelligent systems that actually do work—not just chat. Over the past 13+ years, I’ve designed and implemented enterprise-grade platforms across Salesforce, AI, and automation, and more recently focused on building agent-based systems that execute workflows, manipulate data, and drive outcomes.
 
 I’ve led teams, built a $2M services business, and now focus on turning AI into something practical, scalable, and production-ready.
-
 
 
 🛠️ What I Do:
@@ -27,10 +26,11 @@ I’ve led teams, built a $2M services business, and now focus on turning AI int
 
 🚀 Projects:
 -
-
+ https://www.yourcourseforge.ai
+ - Generate courses, curriculum and training with AI and update it anytime.
+   
  https://www.vibeacademy.net 
  - Created a generative learning platform to learn anything and teach others how to learn using AI. 
-
    
  https://www.github.com/alexennube/nami
  - Open Source Nami Engine, a multi agent orchestration lib that uses Swarms, SwarmQueens and Spawn to achieve outcomes.
